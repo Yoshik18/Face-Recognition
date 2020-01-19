@@ -12,6 +12,7 @@
     body {
       font-family: 'Comfortaa', cursive;
       background: #353535;
+      color: white;
     }
 
     .jumbotron h1 {
@@ -60,21 +61,17 @@
         <h2>Create, Train And Recognize</h2>
       </div>
     </div>
-    <div class="row">
+    <div class="row ml-4 mt-4">
       <div class="col-md-4">
         <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#exampleModalCenter">
           Create Dataset
         </button>
       </div>
       <div class="col-md-4">
-        <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#exampleModalCenter">
-          Train Dataset
-        </button>
+          <a href="/train" class="btn btn-primary btn-lg">Train Dataset</a>
       </div>
       <div class="col-md-4">
-        <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#exampleModalCenter">
-          Recognize Dataset
-        </button>
+          <a href="recognize" class="btn btn-primary btn-lg">Recognize Dataset</a>
       </div>
     </div>
   </div>
