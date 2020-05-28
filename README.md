@@ -1,7 +1,7 @@
 # Facerecognition
 ### Simple Face Recognition System 
 
-This was made as our major project for python during my final year in Diploma.
+This was made as our major project during my final year in Diploma.
 
 ### Steps
 1. Download the project on your local system
