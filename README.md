@@ -1,4 +1,4 @@
-# facerecognition
+# Facerecognition
 ### Simple Face Recognition System 
 
 This was made as our major project for python during my final year in Diploma.
