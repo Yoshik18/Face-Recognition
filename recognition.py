@@ -9,7 +9,7 @@ faceCascade = cv2.CascadeClassifier(cascadePath)
 
 font = cv2.FONT_HERSHEY_SIMPLEX
 id = 0
-names = ['None', 'Yoshik', 'Kunal', 'Maaz', 'Aryan']
+names = ['None', 'Dilsher', 'Dilsher', 'Yoshik', 'Aryan']
 
 cam = cv2.VideoCapture(0)
 cam.set(3, 640)
